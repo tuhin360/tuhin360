@@ -3,8 +3,7 @@
 ####  Web Developer
  
 
- I'm Front End Web Developer who is passionate about making error free website with 100% client satisfaction. I love to solve real world problem.
-
+ I'm Front End Web Developer and always love to solve real world problem.
 Skills:  HTML / CSS/JS
 
 - 🔭 I’m currently working on  Web Development. 
