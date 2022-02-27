@@ -3,7 +3,7 @@
 ####  Web Developer
  
 
- I'm Front End Web Developer and always love to solve real world problem.
+ I'm Front End Web Designer & Developer and always love to solve real world problem.
  
  
 Skills:  HTML / CSS/JS
