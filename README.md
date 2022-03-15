@@ -8,7 +8,7 @@
  
 Skills:  HTML / CSS/JS
 
-- 🔭 I’m currently working on  Web Development. 
+- 🔭 I’m currently work as a Front End Web Developer. 
 - 🌱 I’m currently learning  javascript  & php. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
