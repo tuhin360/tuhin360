@@ -24,7 +24,7 @@ I'm a Jr. MERN stack web developer who loves making websites look awesome and ea
 🍃 MongoDB
 
 <b><h2>🔗Let's link up:</h2></b>   
-[<img src='https://i.ibb.co/85Mwd2s/github.png' alt='github' height='30'>](https://github.com/tuhin360)  [<img src='https://i.ibb.co/WVZfmm9/logo-hero-removebg-preview.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/jahedi-alam-tuhin-a90289261/)  [<img src='https://i.ibb.co/p1dk7pH/rsz-facebook-emblem.png' alt='facebook' height='30'>](https://www.facebook.com/jahediAlamTuhin) 
+[<img src='https://i.ibb.co/85Mwd2s/github.png' alt='github' height='30'>](https://github.com/tuhin360)  [<img src='https://i.ibb.co/WVZfmm9/logo-hero-removebg-preview.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/jahedi-alam-tuhin-a90289261/)  [<img src='https://i.ibb.co/w6w3GZj/facebook.png' alt='facebook' height='30'>](https://www.facebook.com/jahediAlamTuhin) 
 
 [<img src='https://i.ibb.co/FW09DMn/ins-2.png' alt='instagram' height='30'>](https://www.instagram.com/______tuhin________/)  [<img src='https://i.ibb.co/LRfxqWF/twi.png' alt='twitter' height='30' >](https://twitter.com/ja_tuhin)  [<img src='https://i.ibb.co/YyxdWNJ/port-latest.jpg' alt='website' height='30'>](https://incredible-cajeta-c44ba1.netlify.app/)  
 
