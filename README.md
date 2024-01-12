@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jahedi Alam Tuhin
 #### Jr. Front End Web Developer 💻✨
-!["Passionate Web Developer 💻✨"](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+!["Passionate Web Developer 💻✨"](https://i.ibb.co/MgVJBqN/COVER.png)
 
 I'm a Jr. MERN stack web developer who loves making websites look awesome and easy to use. I enjoy taking complicated ideas and turning them into simple, good-looking designs. My goal is to create websites that people find enjoyable and straightforward. Let's team up and create something fantastic for the web!
 
