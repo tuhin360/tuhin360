@@ -4,13 +4,13 @@
 
 I'm a Jr. MERN stack web developer who loves making websites look awesome and easy to use. I enjoy taking complicated ideas and turning them into simple, good-looking designs. My goal is to create websites that people find enjoyable and straightforward. Let's team up and create something fantastic for the web!
 
-- 🌱 I’m currently learning TypeScript
-- 🌈 Adding colors to the web with CSS
-- 💬 Love talking about making websites
-- 🎉 Celebrating every successful git push
-- 🌐 Bringing websites to life with JavaScript
-- 🎧 Coding to the rhythm of my favorite tunes
-- 📧 Email: tuhin153695@gmail.com
+🌱 I’m currently learning TypeScript
+🌈 Adding colors to the web with CSS
+💬 Love talking about making websites
+🎉 Celebrating every successful git push
+🌐 Bringing websites to life with JavaScript
+🎧 Coding to the rhythm of my favorite tunes
+📧 Email: tuhin153695@gmail.com
 
 <b><h2>🚀Skills :</h2></b>  
 🌐 HTML </br>
