@@ -1,19 +1,19 @@
 # 💫 Hi, I'm Jahedi Alam Tuhin 
-### 🚀 MERN Stack Developer | UI Enthusiast | Problem Solver
+### 🚀 MERN Developer | Frontend Focused | Code Problem Solver
 
 <div align="center">
   <img src="https://i.ibb.co/Y2bVtX3/github-cover.png" alt="Banner" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://incredible-cajeta-c44ba1.netlify.app/" target="_blank">
+  <a href="https://my-portfolio-pi-one-76.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jahedi-alam-tuhin-a90289261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuhin153695@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuhin153695@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
