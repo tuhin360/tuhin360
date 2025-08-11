@@ -2,7 +2,7 @@
 ### 🚀 MERN Developer | Frontend Focused | Code Problem Solver
 
 <div align="center">
-  <img src="https://i.ibb.co.com/XZ2X7dyM/05.png" alt="Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/VcWHV12D/05.png" alt="Banner" width="100%"/>
 </div>
 
 <p align="center">
