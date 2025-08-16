@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Jahedi Alam Tuhin 
-### 🚀 MERN Developer | Frontend Focused | Code Problem Solver
+### 🚀 MERN Developer | Frontend Focused 
 
 <div align="center">
-  <img src="https://i.ibb.co.com/GQdHKmDq/cover.png" alt="Banner" width="100%"/>
+  <img src="https://i.ibb.co/Mx98vKSr/green-cover.png" alt="Banner" width="100%"/>
 </div>
 
 <p align="center">
