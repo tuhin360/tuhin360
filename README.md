@@ -2,7 +2,7 @@
 ### 🚀 MERN Developer | Frontend Focused 
 
 <div align="center">
-  <img src="https://i.ibb.co/Mx98vKSr/green-cover.png" alt="Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/nqsSY7z2/green-cover.jpg" alt="Banner" width="100%"/>
 </div>
 
 <p align="center">
