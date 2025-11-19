@@ -17,13 +17,6 @@
   </a>
 </p>
 
-## 🔥 Current Focus
-- 🌱 Mastering **TypeScript & Next.js**
-- ⚡ Optimizing **web performance** metrics
-- 🔗 Learning **GraphQL** for efficient data fetching
-- 🗄️ Exploring **PostgreSQL** for relational database management
-
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend  
