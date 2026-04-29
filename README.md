@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Jahedi Alam Tuhin 
-### 🚀 MERN Developer | Frontend Focused 
+### 🚀 MERN Stack Developer | Frontend Focused 
 
 <div align="center">
   <img src="https://i.ibb.co.com/nqsSY7z2/green-cover.jpg" alt="Banner" width="100%"/>
@@ -16,6 +16,16 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## 🙋‍♂️ About Me
+
+Hi, I'm Jahedi Alam Tuhin. I am a web developer who loves building fast, easy-to-use websites.
+
+What I do:
+- Building: Creating great apps using React and Next.js.
+- Solving Problems: Improving my logic skills every day with C++.
+- Goal: Writing clean, simple code to solve real-world problems.
+---
 
 ## 🛠️ Tech Stack
 
@@ -74,8 +84,6 @@
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuhin360&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ✨ Featured Projects
 
 ## 💡 Coding Philosophy
 > *"Clean code > clever code"*  
